@@ -15,5 +15,10 @@
         "titleBar.inactiveBackground": "#a2ba3599",
         "titleBar.inactiveForeground": "#15202b99"
     },
-    "peacock.color": "#a2ba35"
+    "peacock.color": "#a2ba35",
+    "files.associations": {
+        "Dockerfile*": "dockerfile",
+        "hid.h": "c",
+        "usb.h": "c"
+    }
 }
