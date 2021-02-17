@@ -1,2 +1,2 @@
-# cheapdeck-bridge
-Bridge between cheapdeck and computer, simulating a Stream Deck
+# LibreDeck-SDBridge
+Bridge between LibreDeck and computer, simulating a Stream Deck
